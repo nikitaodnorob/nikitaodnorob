@@ -7,24 +7,24 @@
 - 🌍 Languages: **Russian** (_Native_), **English** (_Intermediate_)
 
 ### ✉ Contact me
-- Telegram: @nikitaodnorob
-- Twitter: @OdnorobNikita (_Russian_)
+- Telegram: <a href="https://t.me/nikitaodnorob" target="_blank" rel="noreferrer">@nikitaodnorob</a>
+- Twitter: <a href="https://twitter.com/OdnorobNikita" target="_blank" rel="noreferrer">@OdnorobNikita</a> (_Russian_)
 
 ### My projects
 
-##### Rap-Paraphraser
+#### Rap-Paraphraser
 * Frontend of service for rephrasing text in semantic area of Russian rap with rap slang addition (_Russian interface only_)
 * [Source](https://github.com/nikitaodnorob/rap-paraphraser), [Deploy*](https://rap-paraphraser.herokuapp.com/). Stack: `React`
 
-##### Checkov-Digital
+#### Checkov-Digital
 * Frontend of the site for searching texts of Anton Pavlovich Checkov (_Russian interface only_)
-* [Deploy*](https://chekhov-digital.herokuapp.com/) (_It is still in the Heroku, so the application can be asleep_). Stack: `React`, `SCSS`
+* [Deploy*](https://chekhov-digital.herokuapp.com/). Stack: `React`, `SCSS`
 
-##### PL Compiler
+#### PL Compiler
 * The compiler of model programming language for .NET Core platform
 * [Source & description](https://github.com/nikitaodnorob/pl-compiler). Stack: `C#`, `Lex`, `Yacc`, `Roslyn`
 
-##### Lane detecting
+#### Lane detecting
 * Recognizing lines of a current road lane
 * [Source & description](https://github.com/nikitaodnorob/lane-detecting). Stack: `C#`, `OpenCV`
 
