@@ -1,9 +1,9 @@
 ### 👋 About me
 
-- 👨‍💻 I'm a frontend developer (React)
-- 👨‍🎓 I'm an MMCS master student
-- 🏠 I'm from Rostov-on-Don, Russia
-- 😄 I love football and snooker
+- 👨‍💻 A frontend developer (React)
+- 👨‍🎓 An MMCS master student
+- 🏠 From Rostov-on-Don, Russia
+- 😄 Love football and snooker
 - 🌍 Languages: **Russian** (_Native_), **English** (_Intermediate_)
 
 ### ✉ Contact me
