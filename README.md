@@ -7,8 +7,8 @@
 - 🌍 Languages: **Russian** (_Native_), **English** (_Intermediate_)
 
 ### ✉ Contact me
-- Telegram: <a href="https://t.me/nikitaodnorob" target="_blank" rel="noreferrer">@nikitaodnorob</a>
-- Twitter: <a href="https://twitter.com/OdnorobNikita" target="_blank" rel="noreferrer">@OdnorobNikita</a> (_Russian_)
+- Telegram: [@nikitaodnorob](https://t.me/nikitaodnorob)
+- Twitter: [@OdnorobNikita](https://twitter.com/OdnorobNikita) (_Russian_)
 
 ### My projects
 
