@@ -8,9 +8,13 @@
 
 ### ✉ Contact me
 - Telegram: [@nikitaodnorob](https://t.me/nikitaodnorob)
-- Twitter: [@OdnorobNikita](https://twitter.com/OdnorobNikita) (_Russian_)
+- Twitter: [@nikita_frondev](https://twitter.com/nikita_frondev) (_Russian_)
 
 ### My projects
+
+#### react-material-notify
+* React package for notifications creating with Material UI style
+* [Source](https://github.com/nikitaodnorob/react-material-notify)
 
 #### Rap-Paraphraser
 * Frontend of service for rephrasing text in semantic area of Russian rap with rap slang addition (_Russian interface only_)
